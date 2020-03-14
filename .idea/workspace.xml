@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee1371e6-d99c-4af5-b46b-f2da0332a5df" name="Default Changelist" comment="" />
+    <list default="true" id="ee1371e6-d99c-4af5-b46b-f2da0332a5df" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main2048.js" beforeDir="false" afterPath="$PROJECT_DIR$/main2048.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/showanimation.js" beforeDir="false" afterPath="$PROJECT_DIR$/showanimation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/support2048.js" beforeDir="false" afterPath="$PROJECT_DIR$/support2048.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +25,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1Z3ddYTU0euGBNlC6xEu2FhrG9S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,6 +42,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -63,18 +78,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584071799212</updated>
-      <workItem from="1584071800935" duration="7546000" />
+      <workItem from="1584071800935" duration="21233000" />
     </task>
+    <task id="LOCAL-00001" summary="The Layout and the basic logic">
+      <created>1584107695253</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584107695253</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="The Layout and the basic logic" />
+    <option name="LAST_COMMIT_MESSAGE" value="The Layout and the basic logic" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#Inspections" timestamp="1584188974805">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Inspections/0.0.1440.900@0.0.1440.900" timestamp="1584188974805" />
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584106293574">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1584106293574" />
+    <state x="303" y="52" key="CommitChangelistDialog2" timestamp="1584107695037">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1584107695037" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1584106317012">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -95,6 +130,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1584107519682" />
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1584107722235">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1584107722235" />
     <state x="385" y="210" width="670" height="675" key="run.anything.popup" timestamp="1584106303417">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
