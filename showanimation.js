@@ -1,10 +1,10 @@
-function showNumbertWithAnimation(i ,j , randNumber){
+function showNumberWithAnimation(i ,j , randNumber){
     var numberCell = $('#number-cell-' + i + "-" + j);
 
     numberCell.css('background-color',getNumberBackgroundColor(randNumber));
     numberCell.css('color', getNumberColor(randNumber));
     numberCell.text(randNumber);
-
+    console.log(getNumberColor(randNumber))
     numberCell.animate({
         width:"100px",
         height:"100px",
@@ -14,12 +14,14 @@ function showNumbertWithAnimation(i ,j , randNumber){
 }
 
 
-
-
 function showMoveAnimation( fromx, fromy, tox, toy) {
     var numberCell = $('#number-cell' + fromx + '-' + fromy );
     numberCell.animate({
-        top:getPosTop(tox, toy),
+        top: getPosTop(tox, toy),
         left: getPosLeft( tox, toy)
-    },225);
+    },200);
+}
+
+function updateScore( score ){
+    $('#score').text( score );
 }
