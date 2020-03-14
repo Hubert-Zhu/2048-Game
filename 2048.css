@@ -1,4 +1,3 @@
-
 header{
     display: block;
     margin: 0;
@@ -27,6 +26,13 @@ header p{
     font-family: Arial;
     font-size: 25px;
     margin:20px auto;
+}
+
+header h1{
+    font-family: Arial;
+    font-size: 40px;
+    font-weight: bold;
+    margin: 10px autor;
 }
 
 #grid-container{

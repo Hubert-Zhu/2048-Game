@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ee1371e6-d99c-4af5-b46b-f2da0332a5df" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2048.css" beforeDir="false" afterPath="$PROJECT_DIR$/2048.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main2048.js" beforeDir="false" afterPath="$PROJECT_DIR$/main2048.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/showanimation.js" beforeDir="false" afterPath="$PROJECT_DIR$/showanimation.js" afterDir="false" />
@@ -78,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584071799212</updated>
-      <workItem from="1584071800935" duration="24253000" />
+      <workItem from="1584071800935" duration="27151000" />
     </task>
     <task id="LOCAL-00001" summary="The Layout and the basic logic">
       <created>1584107695253</created>
@@ -94,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584206174816</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Finish">
+      <created>1584209299914</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584209299914</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,7 +111,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="The Layout and the basic logic" />
     <MESSAGE value="move and addition" />
-    <option name="LAST_COMMIT_MESSAGE" value="move and addition" />
+    <MESSAGE value="Finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="115" key="#Inspections" timestamp="1584188974805">
@@ -114,10 +123,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1584106293574" />
-    <state x="303" y="52" key="CommitChangelistDialog2" timestamp="1584206174628">
+    <state x="303" y="52" key="CommitChangelistDialog2" timestamp="1584209299775">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1584206174628" />
+    <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1584209299775" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1584106317012">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

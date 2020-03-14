@@ -1,9 +1,14 @@
+documentWidth = window.screen.availWidth;
+gridContainerWidth = 0.92 * documentWidth;
+cellSideLength = 0.18 * documentWidth;
+cellspace = 0.04 * documentWidth;
+
 function getPosTop(i,j){
-    return 20+i*120;
+    return cellspace+i*(cellspace+cellSideLength);
 }
 
 function getPosLeft(i,j){
-    return 20+j*120;
+    return cellspace+j*(cellspace+cellSideLength);
 }
 
 function getNumberBackgroundColor(number){
